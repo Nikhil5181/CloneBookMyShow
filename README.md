@@ -26,9 +26,3 @@ Theatre
 Customer
 
 
-Entity class of project 
-
-Owner - This class or api is main starting point of project they are some fields of owner is 
-OwneId , OwneName, OwnerEmail, OwnerPassword etc .
-
-Production House - This entity represent the production house of movies all movies after create store inside it.
